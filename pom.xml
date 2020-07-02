@@ -92,7 +92,7 @@ under the License.
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.47</version>
+			<version>8.0.16</version>
 		</dependency>
 
 		<!--传统阻塞的IO-->
